@@ -1,0 +1,38 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Git: Status",
+      "type": "shell",
+      "command": "git status",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Git: Add and Commit",
+      "type": "shell",
+      "command": "git add . && git commit -m \"${input:commitMessage}\"",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Open campaign README preview",
+      "type": "shell",
+      "command": "echo Open README.md and press Ctrl+Shift+V",
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "commitMessage",
+      "type": "promptString",
+      "description": "Commit message"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.settings.editor": "json",
+  "markdown.preview.scrollPreviewWithEditor": true,
+  "markdown.preview.scrollEditorWithPreview": true,
+  "markdown.copyFiles.destination": {
+    "/handouts/**/*": "handouts-assets/${fileName}",
+    "/sessions/**/*": "session-assets/${fileName}",
+    "/locations/**/*": "location-assets/${fileName}"
+  },
+  "[markdown]": {
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    },
+    "editor.formatOnSave": false
+  }
+}
