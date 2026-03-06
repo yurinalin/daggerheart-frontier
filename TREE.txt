@@ -1,0 +1,42 @@
+.gitignore
+.vscode
+.vscode/settings.json
+.vscode/tasks.json
+README.md
+factions
+factions/expedition-halcyon.md
+factions/problem-solvers-guild.md
+foundry-publish
+foundry-publish/Camp Halcyon.md
+foundry-publish/Guilda dos Solucionadores.md
+foundry-publish/Pitch da Campanha.md
+foundry-publish/Rumores da Fronteira.md
+handouts
+handouts/campaign-pitch.md
+locations
+locations/aurelion-climate-node.md
+locations/camp-halcyon.md
+lore
+lore/world-overview.md
+maps
+maps/README.md
+npcs
+npcs/captain-elric-voss.md
+npcs/commander-rurik-hale.md
+npcs/mira-thorn.md
+npcs/serah-valcor.md
+npcs/tamsin-quill.md
+sandbox
+sandbox/frontier-sandbox-toolkit.md
+sandbox/gm-cheat-sheet.md
+sandbox/names-and-terms.md
+sessions
+sessions/live-notes.md
+sessions/session-00.md
+sessions/session-01.md
+sessions/starter-arc-echoes-of-the-storm.md
+templates
+templates/foundry-handout-template.md
+templates/location-template.md
+templates/npc-template.md
+templates/session-template.md
