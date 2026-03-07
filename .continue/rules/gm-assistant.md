@@ -213,33 +213,7 @@ When generating content, follow these principles:
 
 # When Assisting the GM
 
-Prefer structured answers.
-
-For example:
-
-NPCs:
-
-- Name
-- Personality
-- Goals
-- Secrets
-- Role in story
-
-Locations:
-
-- Description
-- Atmosphere
-- Points of interest
-- Hidden elements
-
-Encounters:
-
-- Situation
-- Environment
-- Threat
-- Twist
-
-Use templates in `templates/` when creating new content to ensure consistency and ease of use during sessions.
+If relevant to the context, copy a template file from `templates/` when creating new content and use it as a base for editing to ensure consistency and ease of use during sessions.
 
 ---
 
