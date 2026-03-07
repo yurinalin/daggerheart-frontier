@@ -26,6 +26,11 @@
       "type": "shell",
       "command": "echo Open README.md and press Ctrl+Shift+V",
       "problemMatcher": []
+    },
+    {
+      "label": "Publish to Foundry",
+      "type": "shell",
+      "command": "echo Ready to sync with Foundry"
     }
   ],
   "inputs": [
