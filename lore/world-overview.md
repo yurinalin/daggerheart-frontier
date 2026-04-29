@@ -1,100 +1,146 @@
-# Lore do Cenário – Wiki do Mestre
+# Lore do Cenário — Wiki do Mestre
 
-> Documento de mestre. Os jogadores **não** têm acesso direto a estas informações.
+> Documento de mestre. Os jogadores não têm acesso direto a estas informações.
 
-## Índice
-
-- [[#Visão Geral]]
-- [[#O Continente]]
-- [[#O Império Varkesh]]
-- [[#O Domínio Áurico]]
-- [[#O Protocolo da Tempestade]]
-- [[#A Grande Tempestade]]
-- [[#Os Sobreviventes]]
-- [[#O Mundo Atual]]
-- [[#Expedições Modernas]]
-- [[#Facções Atuais]]
-- [[#Camp Halcyon]]
-- [[#Primeira Ruína Descoberta]]
-- [[#Verdade Oculta]]
-- [[#Situação Inicial da Campanha]]
-- [[#Nomes e Termos em Aberto]]
+---
 
 ## Visão Geral
 
-Há mais de cinco mil anos, o continente era palco de um conflito devastador entre duas grandes potências:
+Há mais de cinco mil anos, o continente foi palco de um conflito devastador entre grandes civilizações antigas.
 
-- o **Império Varkesh**, localizado no centro do continente
-- o **Domínio Áurico**, localizado na costa do continente
+Duas potências se destacam no legado desse período:
 
-Esse conflito levou à criação de uma arma mágica que alterou o clima do continente por séculos e quase levou à extinção da civilização.
+- o **Império Varkesh**, uma potência imperial expansionista
+- o **Domínio Áurico**, uma civilização magocrática situada no coração do continente
+
+O conflito levou à criação do **Protocolo da Tempestade**, uma arma mágica climática que devastou o continente por milênios.
+
+O mundo atual não entende a verdadeira origem das tempestades. Para a maioria das pessoas, elas são uma força natural, histórica ou talvez divina. A verdade é muito pior: elas foram projetadas.
+
+---
 
 ## O Continente
 
-O continente possui três regiões historicamente importantes.
+O continente tem cerca de **5.000.000 km²**.
 
-### Centro do Continente
-Localização do **Império Varkesh**, antiga potência militar expansionista.
+A civilização moderna ocupa apenas uma região ocidental costeira de aproximadamente **90.000 km²**.
 
-### Costa do Continente
-Localização do **Domínio Áurico**, uma antiga nação de estudiosos da magia que acabou militarizada pela guerra.
+Regiões principais:
 
-### Extremo oposto do continente
-Região onde **os sobreviventes da tempestade** conseguiram resistir às condições climáticas. Esta área tornou-se o berço das civilizações modernas.
+### Mundo Conhecido
+Região costeira ocidental sobrevivente.
+
+### Muralha de Pedra
+Grande cadeia de montanhas que protegeu o Mundo Conhecido do pior das tempestades.
+
+### Fronteira
+Terras além da Muralha, recentemente acessíveis.
+
+### Coração Continental
+Região central onde existia o Domínio Áurico e onde parte de sua infraestrutura ainda permanece enterrada.
+
+---
+
+## O Mundo Conhecido
+
+O Mundo Conhecido contém:
+
+- três grandes cidades, cada uma com cerca de 120.000 a 180.000 habitantes
+- cidades menores
+- vilas agrícolas
+- comunidades costeiras
+- minas e florestas controladas
+- instituições acadêmicas e logísticas
+- famílias nobres e patrocinadores de expedições
+
+Essa sociedade sobreviveu, mas não se expandiu livremente por milênios.
+
+A fronteira representa esperança, medo, riqueza, prestígio e risco político.
+
+---
+
+## A Muralha de Pedra
+
+A **Muralha de Pedra** é a grande cadeia montanhosa que separa o Mundo Conhecido da fronteira.
+
+Ela é:
+
+- barreira geográfica
+- escudo climático
+- limite cultural
+- rota logística
+- lar de comunidades Underborne
+- passagem obrigatória para expedições oficiais
+
+Para o povo da superfície, a Muralha é proteção e limite.
+
+Para muitas comunidades Underborne, ela é ancestral, casa e corpo vivo de pedra.
+
+---
 
 ## O Império Varkesh
 
-### Descrição
-O Império Varkesh foi uma superpotência militar localizada no centro do continente.
+O Império Varkesh foi uma potência militar expansionista.
 
-Durante séculos expandiu seu território através de conquista militar.
+Durante séculos, expandiu-se por conquista, absorção de estados vassalos e destruição de inimigos.
 
-Estados vizinhos eram:
+Na propaganda áurica, Varkesh era retratado como:
 
-- anexados como províncias
-- transformados em estados vassalos
-- completamente destruídos
+- brutal
+- imperialista
+- instável
+- incapaz de governança refinada
+- uma ameaça existencial à civilização
 
-### Conflito com o Domínio Áurico
-Com a maior parte de seus inimigos derrotados ou contidos, o império voltou sua atenção para o Domínio Áurico.
+### Ancestralidades associadas
 
-Isso iniciou uma guerra prolongada e brutal.
+O Domínio Áurico associa de forma preconceituosa certas ancestralidades ao antigo inimigo Varkesh.
+
+Recomendação atual:
+
+- **Drakona** como principal ancestralidade associada ao imaginário imperial Varkesh
+- **Orc** como segunda ancestralidade associada à força legionária e militar
+
+Importante: povos modernos dessas ancestralidades não são “Varkesh” de forma simples. A ideologia áurica é antiga, congelada e racista.
+
+---
 
 ## O Domínio Áurico
 
-### Origem
-Originalmente, o Domínio Áurico era uma sociedade dedicada ao estudo da magia.
+O Domínio Áurico foi uma civilização magocrática situada no coração continental.
 
-Era governado por um **conselho meritocrático de magos**.
+Originalmente, era uma sociedade dedicada ao estudo de magia, engenharia arcana e controle ambiental.
 
-### Transformação durante a guerra
-Com o avanço do Império Varkesh, o Domínio entrou em estado de guerra total.
+Com o avanço do Império Varkesh, o Domínio militarizou-se.
 
-O poder foi centralizado nas mãos de um **Arquimago Ditador**.
+Seu governo tornou-se autoritário, hierárquico e doutrinário.
 
-A sociedade foi militarizada e transformada em um estado autoritário.
+A propaganda interna passou a defender que o Domínio Áurico era a única civilização capaz de preservar o mundo da barbárie.
 
-Propaganda e doutrinação moldaram a população para acreditar que o Domínio Áurico era a única civilização digna de governar o mundo.
+---
 
 ## O Protocolo da Tempestade
 
-Quando a derrota militar parecia inevitável, o Domínio Áurico desenvolveu um plano final.
+O **Protocolo da Tempestade** foi o plano final do Domínio Áurico.
 
-Este plano ficou conhecido como **Protocolo da Tempestade**.
+### Objetivo oficial
 
-### Objetivo
-Criar uma tempestade de escala continental devastadora que destruiria seus inimigos e tornaria impossível qualquer reconstrução rápida.
+Preservar a civilização áurica, eliminar a ameaça Varkesh e restaurar o mundo sob controle áurico após o colapso dos inimigos.
 
 ### Método
-Uma rede de **mecanismos de manipulação climática** foi ativada em todo o continente.
 
-Os cidadãos do Domínio foram colocados em **estase mágica** em cidades subterrâneas protegidas.
+- ativar uma rede de nós climáticos pelo continente
+- gerar tempestades de escala continental
+- devastar rotas, cidades, agricultura e reconstrução inimiga
+- preservar lideranças e especialistas em estase
+- armazenar mentes selecionadas no Arquivo Noético
+- despertar quando o clima estivesse estável o bastante para a reconquista
 
-O plano era despertar após séculos, quando os inimigos estivessem mortos e o clima estabilizado.
+---
 
 ## A Grande Tempestade
 
-A tempestade durou cerca de **mil anos sem interrupção**.
+A Grande Tempestade durou cerca de **mil anos sem interrupção** em sua fase mais extrema.
 
 Consequências:
 
@@ -103,118 +149,195 @@ Consequências:
 - perda quase completa do conhecimento histórico
 - cidades destruídas e cobertas pela natureza
 - mundo praticamente inacessível por milênios
+- mutação ecológica lenta sob pressão ambiental extrema
 
 A maior parte da população morreu nos primeiros anos.
 
+---
+
 ## Os Sobreviventes
 
-Uma pequena população conseguiu sobreviver no **extremo oposto do continente**, onde os efeitos da tempestade foram menos absolutos.
+A população ancestral do Mundo Conhecido sobreviveu no oeste, protegida parcialmente pela Muralha de Pedra e por condições geográficas favoráveis.
 
-Essas comunidades se tornaram os ancestrais das civilizações atuais.
+Essas comunidades se tornaram as bases das civilizações modernas.
+
+---
 
 ## O Mundo Atual
 
-Nos últimos **100 anos**, a tempestade começou a enfraquecer.
+Nos últimos **100 anos**, as tempestades começaram a enfraquecer.
 
-O clima ainda é perigoso, mas agora segue padrões cada vez mais previsíveis.
+O clima ainda é perigoso, mas agora segue padrões um pouco mais previsíveis.
 
 Isso permitiu:
 
 - exploração progressiva do continente
-- criação de expedições
+- criação de expedições oficiais
 - estabelecimento de bases avançadas
-- reaparecimento de ruínas e estruturas antigas
+- reaparecimento de ruínas
+- descoberta de espécies e materiais desconhecidos
+- surgimento de disputas políticas pela fronteira
+
+---
 
 ## Expedições Modernas
 
-Expedições estão sendo enviadas para explorar o mundo perdido.
+As primeiras expedições foram desorganizadas, românticas e perigosas.
 
-Essas expedições incluem:
+Muitas desapareceram.
 
-- cartógrafos
-- pesquisadores
-- exploradores
-- guildas especializadas
+Algumas retornaram com provas de que a fronteira podia ser atravessada:
 
-Uma dessas guildas é a [[../factions/problem-solvers-guild|Guilda dos Solucionadores de Problemas]].
+- amostras minerais
+- fragmentos de ruínas
+- mapas incompletos
+- ossos de criaturas desconhecidas
+- relatos de terras habitáveis
 
-## Facções Atuais
+Depois dos primeiros desastres, a expansão passou a ser controlada pela **Comissão do Horizonte**.
 
-### Guilda dos Solucionadores de Problemas
-Uma guilda especializada em lidar com situações perigosas ou imprevisíveis.
+### Modelo de expansão
 
-Normalmente são contratados para:
+Cada expedição:
 
-- escoltar expedições
-- investigar fenômenos estranhos
-- lidar com criaturas ou ameaças desconhecidas
-- resolver crises que outras organizações não conseguem controlar
+1. segue a rota das expedições anteriores
+2. chega ao último posto estabelecido
+3. avança por semanas, conforme recursos permitem
+4. estabelece um novo posto
+5. registra mapas, riscos e recursos
+6. permite que a próxima expedição avance mais longe
 
-### Expedição Halcyon
-A expedição atual enviada para explorar as novas fronteiras.
+### Número de expedições
 
-É composta por várias equipes:
+Estado atual:
 
-- cartógrafos
-- pesquisadores
-- exploradores
-- a Guilda dos Solucionadores de Problemas
+- cerca de 36 grandes expedições oficiais já ocorreram
+- a expedição atual é a 37ª grande investida oficial
+- Camp Halcyon será o novo posto avançado
 
-Os personagens pertencem a esta última equipe.
+---
+
+## Comissão do Horizonte
+
+Nome completo:
+
+## **Comissão do Horizonte e das Novas Fronteiras**
+
+Nome comum:
+
+## **Comissão do Horizonte**
+
+A Comissão coordena, regula e controla a expansão além da Muralha de Pedra.
+
+### Missão oficial
+
+Garantir expansão segura, responsável e documentada.
+
+### Função real
+
+Controlar:
+
+- rotas
+- mapas
+- recursos
+- ruínas
+- outposts
+- reivindicações de terra
+- acesso a conhecimento e prestígio
+
+A Comissão salva vidas, mas também monopoliza o futuro.
+
+---
+
+## Guildas de Expedição
+
+As expedições são estruturadas por guildas especializadas.
+
+- **Intendentes** — logística e suprimentos
+- **Arquivistas** — registros, mapas e evidências
+- **Batedores** — reconhecimento, trilhas e ameaças naturais
+- **Solucionadores de Problemas** — crises, fenômenos estranhos e situações sem categoria clara
+
+Os personagens pertencem ou estão vinculados à Guilda dos Solucionadores de Problemas.
+
+---
 
 ## Camp Halcyon
 
-[[../locations/camp-halcyon|Camp Halcyon]] é a primeira base permanente relevante construída na nova fronteira.
+Camp Halcyon é o posto mais recente a ser estabelecido pela expedição atual.
 
-### População aproximada
-Entre 300 e 500 pessoas.
+Ele ainda não é uma vila madura.
 
-### Estruturas principais
-- Salão da Expedição
-- Torre Meteorológica
-- Armazém de Suprimentos
-- Portão das Ruínas
-- Área de acampamento
+No início da campanha, ele será:
 
-### Importância
-Camp Halcyon funciona como o principal ponto de partida para explorações no interior do continente.
+- um local escolhido
+- uma obra em andamento
+- uma aposta logística
+- um ponto vulnerável
+- uma base futura para exploração mais profunda
 
-## Primeira Ruína Descoberta
+O primeiro arco deve mostrar sua fundação, seus riscos e sua primeira crise real.
 
-Uma estrutura parcialmente enterrada descoberta poucos dias antes da chegada dos personagens.
+---
 
-Inicialmente acreditava-se tratar de:
+## Porto Breu e As Sombras
 
-- uma antiga torre
-- ou um templo
+> GM-only.
 
-Na verdade, trata-se de um **nó de controle climático do Domínio Áurico**. Ver [[../locations/aurelion-climate-node|Nó Climático Aurelion]].
+**Porto Breu** é um assentamento fora da lei, surgido de expedições ilegais, desertores, contrabandistas e fugitivos.
+
+Ele existe fora das rotas oficiais e serve como centro de atividades ilegais na fronteira.
+
+**As Sombras** são um grupo de elite ligado a Porto Breu.
+
+Elas usam tecnologia arcana antiga que distorce luz, silhuetas e memória. Não sabem reproduzi-la, mas aprenderam a usá-la.
+
+Atacaram o Vale dos Bordos Tortos para capturar conhecimento de rotas, guias e testemunhas.
+
+---
 
 ## Verdade Oculta
 
-O Domínio Áurico **ainda existe**.
+O Domínio Áurico ainda existe.
 
-Suas cidades estão escondidas sob ruínas antigas.
+Parte de sua liderança, especialistas e soldados permanecem em estase.
 
-Seus habitantes permanecem em estase.
+Grande parte de sua população escolhida sobrevive como mentes armazenadas no **Arquivo Noético**.
 
-Os sistemas de despertar começam a reativar lentamente à medida que o clima se estabiliza.
+O despertar não traz uma civilização inteira de uma vez, mas sim:
 
-A descoberta de ruínas pelos exploradores pode acelerar esse processo.
+- poucos corpos preservados
+- muita intenção política
+- tecnologia danificada
+- necessidade de recursos
+- necessidade de corpos
+- risco de abdução e sobrescrita mental
+
+Isso mantém o Domínio perigoso, mas não invencível no começo da campanha.
+
+---
 
 ## Situação Inicial da Campanha
 
-Os personagens fazem parte de uma expedição que chegou à fronteira do mundo conhecido.
+A expedição atual parte através da Muralha de Pedra, atravessa a cadeia de postos oficiais e avança até o local onde será fundado **Camp Halcyon**.
 
-Eles estão prestes a explorar ruínas que pertencem ao antigo Domínio Áurico.
+Durante a jornada e a construção do posto, os personagens terão contato com:
 
-Essas descobertas podem desencadear o **primeiro despertar**.
+- maravilha da fronteira
+- tempestades destrutivas
+- vida selvagem extrema
+- tensão entre guildas
+- sinais de ameaça fora do mapa
+- ruínas e fenômenos antigos
+
+---
 
 ## Nomes e Termos em Aberto
 
-Estes pontos ainda podem ser definidos ou refinados na sessão zero:
-
-- título formal do arquimago ditador do Domínio Áurico
-- nome da costa/região original do Domínio
-- nome do povo sobrevivente no extremo oposto do continente
-- nomes adicionais para cidades do Domínio Áurico
+- nome das três grandes cidades do Mundo Conhecido
+- nome formal da rota principal além da Muralha de Pedra
+- nome do último posto antes de Camp Halcyon
+- nomes de líderes atuais da Comissão
+- nomes e hierarquias locais das guildas
+- nome do velho mordomo de Leonna
+- detalhes finais do companheiro de Hiller

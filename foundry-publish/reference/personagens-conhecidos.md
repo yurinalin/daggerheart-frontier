@@ -1,62 +1,70 @@
 # Personagens do Grupo
 
-> Documento para jogadores.  
-> Esta página contém apenas informações públicas ou facilmente observáveis.
+> Documento player-facing. Contém apenas informações públicas ou facilmente observáveis.
+
+---
 
 ## Leonna Arcanthys
 
-Uma feiticeira elemental, de postura livre e determinada, que busca algo misterioso.
+Feiticeira highborne de postura livre e determinada, carregando tensão com o papel que sua família esperava dela.
 
 ### Em jogo
-- Conjuradora elemental do ar.
-- Usa chicote e magia.
-- Investigadora particular buscando algo na fronteira.
+
+- conjuradora elemental
+- origem privilegiada
+- presença social forte
+- usa chicote e magia
+- parece determinada a não ser controlada pelos jogos de poder de sua família
 
 ---
 
 ## Newor
 
-Um feiticeiro de aparência sinistra, ligado a lava, obsidiana e magia instável.
+Feiticeiro de aparência sinistra, ligado a lava, obsidiana e magia instável.
+
+Vem de **Pedrafunda / Kharvão**, dentro da Muralha de Pedra.
 
 ### Em jogo
-- Conjurador primordial.
-- Vem de origem subterrânea.
-- Tem um jeito errático e trapaceiro.
-- Parece carregar medo real de perder o controle.
+
+- conjurador primordial
+- origem Underborne
+- jeito errático e provocador
+- medo real de perder o controle
+- magia associada a calor, pressão e ruptura
 
 ---
 
 ## Shiva Raizardente
 
-Um druida de renovação, ligado à cura, à natureza e à sobrevivência por meio dos laços com criaturas e ambientes selvagens.
+Druida de renovação, ligade à cura, à natureza e à sobrevivência por meio dos laços com criaturas e ambientes selvagens.
+
+Vem do mesmo Vale que Hiller.
 
 ### Em jogo
-- Curandeiro e suporte.
-- Tem forte conexão com natureza e animais.
-- Valoriza vínculos com criaturas e sinais do ambiente.
-- Vem da mesma comunidade que Hiller.
-- Parece carregado por algo ligado a sombras e ao passado.
+
+- curandeire e suporte
+- forte conexão com natureza e animais
+- fala pouco
+- age mais do que explica
+- carrega a memória de um ataque que ainda não compreende totalmente
 
 ---
 
 ## Hiller
 
-Um patrulheiro goblin, evasivo e focado em ataques à distância, vindo da mesma comunidade de Shiva.
+Patrulheiro goblin, evasivo e focado em ataques à distância, vindo do Vale dos Bordos Tortos.
 
 ### Em jogo
-- Batedor / rastreador.
-- Beastbound, com vínculo animal importante.
-- Prefere distância, movimento e precisão.
-- Jurou caçar as sombras além da fronteira depois que elas atacaram sua comunidade.
+
+- batedor / rastreador
+- Beastbound, com vínculo animal importante
+- prefere distância, movimento e precisão
+- jurou caçar as figuras lembradas como Sombras depois que elas atacaram sua comunidade
 
 ---
 
-## Nota sobre as sombras
+## Nota sobre conhecimento dos personagens
 
-As sombras são uma ameaça ligada ao passado de Shiva e Hiller.
+O que está neste documento é o que pode ser tratado como público, visível ou facilmente compartilhável entre personagens.
 
-Por enquanto, o grupo sabe apenas que:
-- elas atacaram a comunidade dos dois
-- deixaram marcas suficientes para motivar Hiller a caçá-las
-- ainda são pouco compreendidas
-- parecem conectadas aos perigos além da fronteira
+Segredos pessoais, interpretações internas e verdades de mestre devem permanecer fora deste arquivo.

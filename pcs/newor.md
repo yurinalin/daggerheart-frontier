@@ -1,114 +1,99 @@
 # Newor
 
-> Documento de personagem — atualizado após sessão zero.  
-> **Jogador:** Yan  
-> **Status:** ficha criada; bom potencial para ligação com magia instável e regiões subterrâneas.
+> Documento de personagem.
 
-## Resumo rápido
+---
 
-Newor é um **Feiticeiro de Origem Primordial**, de ancestralidade mista e comunidade **Subterrânea / Underborne**.
-
-A direção que emergiu é de um conjurador marcado por magia instável, impulsos egoístas e uma estética ligada a **lava, obsidiana e loucura controlada por um fio**.
-
-> Newor flerta com o caos porque talvez seja a única forma que encontrou de não ser engolido por ele.
-
-## Identidade mecânica
+## Identidade
 
 - **Nome:** Newor
 - **Pronomes:** ele/dele
 - **Classe:** Feiticeiro
 - **Subclasse:** Origem Primordial
-- **Nível:** 1
-- **Ancestralidade:** mista
 - **Comunidade:** Underborne
-- **Traço de conjuração:** Instinto
-- **Experiências:**
-  - “Não dá pra se divertir se você não flertar com a loucura” +2
-  - Scavanger +2
+- **Ancestralidade:** Inferis / Drakona
+- **Origem:** [[../locations/pedrafunda-kharvao|Pedrafunda / Kharvão]]
 
-## Aparência e presença
+---
 
-- **Roupas:** discretas e ágeis
-- **Olhos:** magma incandescente
-- **Cores associadas:** lava e obsidiana
-- **Corpo:** esguio e sinistro
-- **Atitude:** trapaceiro errático
+## Resumo
+
+Newor é um conjurador instável vindo de Pedrafunda/Kharvão, o último grande assentamento dentro da Muralha de Pedra antes da descida para a fronteira.
+
+Sua magia é associada a:
+
+- lava
+- obsidiana
+- pressão
+- calor antigo
+- risco de ruptura
+
+---
 
 ## Núcleo emocional
 
 Newor tem medo de enlouquecer de vez e perder o controle.
 
-Esse medo não é apenas um detalhe dramático. Ele deve ser um dos eixos principais do personagem:
+Ele vem de uma cultura onde contenção importa. Túneis, pressão, calor, pedra e magia descontrolada podem matar.
 
-- ele usa humor, risco ou provocação para esconder o medo
-- ele gosta de parecer no controle, mesmo quando não está
-- ele pode se aproximar demais do perigo porque a alternativa é admitir fragilidade
-- sua magia é útil, mas também prova constante de que algo dentro dele pode sair do eixo
+Isso torna sua instabilidade tanto social quanto pessoal.
 
-## Relação com a magia
+---
 
-Newor deixou sua comunidade em circunstâncias ligadas ao uso egoísta e descontrolado da própria magia.
+## Relação com Kharvão
 
-Ele aprendeu por observação e proximidade com **elementais de lava**, mas eles já não podem mais guiá-lo porque ele se afastou da comunidade onde cresceu.
+A comunidade ficou desconfiada depois que Newor usou sua magia de forma descontrolada e egoísta.
 
-Isso dá à magia dele uma identidade forte:
+O que exatamente aconteceu ainda pode ser definido.
 
-- calor subterrâneo
-- pressão acumulada
-- rachaduras brilhando por dentro
-- obsidiana cortante
-- beleza perigosa de algo que queima e endurece ao mesmo tempo
+Quando a expedição passou por Pedrafunda, Newor decidiu partir com ela.
 
-## Papel no grupo
+---
 
-Newor pode funcionar como:
-- conjurador de risco
-- especialista em magia instável
-- personagem capaz de atravessar limites que outros evitariam
-- fonte de soluções criativas, mas perigosas
-- alguém que entende lugares escuros, ruínas fechadas e ambientes subterrâneos
+## Motivações possíveis
 
-## Domínios e cartas relevantes
+- fugir antes de ser expulso
+- provar que sua magia é útil
+- encontrar algo grande o suficiente para explicar sua instabilidade
+- escapar dos olhares de Kharvão
+- seguir o chamado de um calor antigo emanando da fronteira
+- se divertir antes de enlouquecer
 
-- **Rain of Blades** — conjuração ofensiva de lâminas mágicas.
-- **Wall Walk** — mobilidade mágica em paredes e tetos.
+---
 
-Essas escolhas reforçam um personagem ágil, perigoso e difícil de prender.
+## Experiências
 
-## Conexões registradas
+- “Não dá pra se divertir se você não flertar com a loucura” +2
+- Scavanger +2
 
-- **Gio / Leonna:** Newor confia nela porque ela também “não é confiável”; há uma compreensão mútua nessa falha.
-- **Hiller / Luck:** há cautela porque ele já ficou na zona de impacto de várias magias de Newor.
-- **Gio / Leonna:** há um segredo compartilhado: ela já viu Newor sem máscara, e ele já viu a magia dela ser instável.
+---
 
-## Ganchos para a campanha
+## Aparência e presença
 
-### A comunidade subterrânea
-A origem Underborne de Newor pode se conectar a:
-- túneis antigos
-- cavernas próximas à fronteira
-- zonas de calor geotérmico
-- comunidades que sobreviveram longe da superfície
-- rumores de estruturas soterradas mais antigas que qualquer assentamento conhecido
+- olhos como magma incandescente
+- cores associadas a lava e obsidiana
+- corpo esguio e sinistro
+- roupas discretas e ágeis
+- atitude errática, provocadora e trapaceira
 
-### Elementais de lava
-Os elementais que o ensinaram podem:
-- ter percebido algo errado nas profundezas
-- ter sido afetados por mecanismos antigos
-- reconhecer materiais ou padrões do Domínio Áurico sem compreendê-los
-- aparecer em sonhos, visões ou presságios térmicos
+---
 
-### Medo da loucura
-A instabilidade de Newor pode ressoar com:
-- máquinas antigas de manipulação climática
-- magia ambiental corrompida
-- lugares onde a realidade parece pressionada
-- ecos de civilizações que usaram magia grande demais para controlar
+## Ganchos para o mestre
 
-## Perguntas para fechar depois
+- elementais de lava podem reaparecer como memória, sonho, chamado ou entidade real
+- ruínas áuricas podem reagir à ancestralidade Drakona ou à magia primordial
+- preconceito áurico contra Drakona pode afetá-lo no futuro
+- Pedrafunda pode enviar alguém atrás dele
+- sua magia pode reconhecer calor ou pressão em estruturas antigas
+- Newor pode sentir ressonância em máquinas subterrâneas antes de entender o motivo
 
-- Qual ancestralidade mista Newor representa mecanicamente e visualmente?
-- A comunidade subterrânea expulsou Newor ou ele fugiu?
-- O uso egoísta da magia causou morte, destruição, vergonha ou só medo?
-- Os elementais de lava eram mentores conscientes, forças naturais ou entidades veneradas?
-- O “Scavanger” dele é mais físico, social ou mágico?
+---
+
+## Perguntas abertas
+
+- Newor saiu de Pedrafunda fugindo, sendo expulso ou escolhendo ir embora?
+- Quem em Kharvão ainda se importa com ele?
+- O que exatamente sua magia descontrolada causou?
+- Ele sente falta dos elementais de lava ou tem medo de reencontrá-los?
+- A expedição é liberdade, sentença ou distração?
+- Newor quer controlar a própria loucura ou provar que ela é útil?
